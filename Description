@@ -1,0 +1,17 @@
+I Used Topices and Technologies 
+-> Mediator and CQRS  Design Pattern 
+-> Fluent Validation 
+-> Localization
+-> Logging with Serilog 
+-> JWT Token & Refresh Token to Activate Expired Access Token 
+-> Dealing With DB Components like StoredProcedure , Function and Views 
+-> Exception Middleware 
+-> ActionFilters 
+-> Generic Repository 
+-> UnitOfWork 
+-> Confirming&Sending Mails 
+-> Reset Password with Sending Code to Email 
+-> Specification Design Pattern 
+-> Uploading Files 
+-> Authentication & Authorization Using (Roles & Policies)
+-> Unified Response For All End Points 
