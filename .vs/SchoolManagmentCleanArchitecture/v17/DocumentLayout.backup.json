@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HebaMostafa\\OneDrive - Al Jasser Holding\\Desktop\\Projects_LinkedIn\\School_Management_System\\School-Managament-System-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD8B89-24EA-4752-A078-5AAB3EA43BBA}|SchoolManagment.Core\\SchoolManagment.Core.csproj|c:\\users\\hebamostafa\\onedrive - al jasser holding\\desktop\\projects_linkedin\\school_management_system\\school-managament-system-main\\schoolmanagment.core\\features\\departments\\commands\\handler\\departmentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDD8B89-24EA-4752-A078-5AAB3EA43BBA}|SchoolManagment.Core\\SchoolManagment.Core.csproj|solutionrelative:schoolmanagment.core\\features\\departments\\commands\\handler\\departmentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A861095-C21D-497C-8FA1-73F3B35FCBC7}|SchoolManagment.Api\\SchoolManagment.Api.csproj|c:\\users\\hebamostafa\\onedrive - al jasser holding\\desktop\\projects_linkedin\\school_management_system\\school-managament-system-main\\schoolmanagment.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A861095-C21D-497C-8FA1-73F3B35FCBC7}|SchoolManagment.Api\\SchoolManagment.Api.csproj|solutionrelative:schoolmanagment.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A861095-C21D-497C-8FA1-73F3B35FCBC7}|SchoolManagment.Api\\SchoolManagment.Api.csproj|c:\\users\\hebamostafa\\onedrive - al jasser holding\\desktop\\projects_linkedin\\school_management_system\\school-managament-system-main\\schoolmanagment.api\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A861095-C21D-497C-8FA1-73F3B35FCBC7}|SchoolManagment.Api\\SchoolManagment.Api.csproj|solutionrelative:schoolmanagment.api\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A861095-C21D-497C-8FA1-73F3B35FCBC7}|SchoolManagment.Api\\SchoolManagment.Api.csproj|c:\\users\\hebamostafa\\onedrive - al jasser holding\\desktop\\projects_linkedin\\school_management_system\\school-managament-system-main\\schoolmanagment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A861095-C21D-497C-8FA1-73F3B35FCBC7}|SchoolManagment.Api\\SchoolManagment.Api.csproj|solutionrelative:schoolmanagment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A861095-C21D-497C-8FA1-73F3B35FCBC7}|SchoolManagment.Api\\SchoolManagment.Api.csproj|c:\\users\\hebamostafa\\onedrive - al jasser holding\\desktop\\projects_linkedin\\school_management_system\\school-managament-system-main\\schoolmanagment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A861095-C21D-497C-8FA1-73F3B35FCBC7}|SchoolManagment.Api\\SchoolManagment.Api.csproj|solutionrelative:schoolmanagment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A861095-C21D-497C-8FA1-73F3B35FCBC7}|SchoolManagment.Api\\SchoolManagment.Api.csproj|c:\\users\\hebamostafa\\onedrive - al jasser holding\\desktop\\projects_linkedin\\school_management_system\\school-managament-system-main\\schoolmanagment.api\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A861095-C21D-497C-8FA1-73F3B35FCBC7}|SchoolManagment.Api\\SchoolManagment.Api.csproj|solutionrelative:schoolmanagment.api\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A861095-C21D-497C-8FA1-73F3B35FCBC7}|SchoolManagment.Api\\SchoolManagment.Api.csproj|c:\\users\\hebamostafa\\onedrive - al jasser holding\\desktop\\projects_linkedin\\school_management_system\\school-managament-system-main\\schoolmanagment.api\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A861095-C21D-497C-8FA1-73F3B35FCBC7}|SchoolManagment.Api\\SchoolManagment.Api.csproj|solutionrelative:schoolmanagment.api\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A861095-C21D-497C-8FA1-73F3B35FCBC7}|SchoolManagment.Api\\SchoolManagment.Api.csproj|c:\\users\\hebamostafa\\onedrive - al jasser holding\\desktop\\projects_linkedin\\school_management_system\\school-managament-system-main\\schoolmanagment.api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A861095-C21D-497C-8FA1-73F3B35FCBC7}|SchoolManagment.Api\\SchoolManagment.Api.csproj|solutionrelative:schoolmanagment.api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A861095-C21D-497C-8FA1-73F3B35FCBC7}|SchoolManagment.Api\\SchoolManagment.Api.csproj|c:\\users\\hebamostafa\\onedrive - al jasser holding\\desktop\\projects_linkedin\\school_management_system\\school-managament-system-main\\schoolmanagment.api\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A861095-C21D-497C-8FA1-73F3B35FCBC7}|SchoolManagment.Api\\SchoolManagment.Api.csproj|solutionrelative:schoolmanagment.api\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A861095-C21D-497C-8FA1-73F3B35FCBC7}|SchoolManagment.Api\\SchoolManagment.Api.csproj|c:\\users\\hebamostafa\\onedrive - al jasser holding\\desktop\\projects_linkedin\\school_management_system\\school-managament-system-main\\schoolmanagment.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A861095-C21D-497C-8FA1-73F3B35FCBC7}|SchoolManagment.Api\\SchoolManagment.Api.csproj|solutionrelative:schoolmanagment.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A861095-C21D-497C-8FA1-73F3B35FCBC7}|SchoolManagment.Api\\SchoolManagment.Api.csproj|c:\\users\\hebamostafa\\onedrive - al jasser holding\\desktop\\projects_linkedin\\school_management_system\\school-managament-system-main\\schoolmanagment.api\\controllers\\applicationusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A861095-C21D-497C-8FA1-73F3B35FCBC7}|SchoolManagment.Api\\SchoolManagment.Api.csproj|solutionrelative:schoolmanagment.api\\controllers\\applicationusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\HebaMostafa\\OneDrive - Al Jasser Holding\\Desktop\\Projects_LinkedIn\\School_Management_System\\School-Managament-System-main\\SchoolManagment.Core\\Features\\Departments\\Commands\\Handler\\DepartmentCommandHandler.cs",
+              "RelativeDocumentMoniker": "SchoolManagment.Core\\Features\\Departments\\Commands\\Handler\\DepartmentCommandHandler.cs",
+              "ToolTip": "C:\\Users\\HebaMostafa\\OneDrive - Al Jasser Holding\\Desktop\\Projects_LinkedIn\\School_Management_System\\School-Managament-System-main\\SchoolManagment.Core\\Features\\Departments\\Commands\\Handler\\DepartmentCommandHandler.cs",
+              "RelativeToolTip": "SchoolManagment.Core\\Features\\Departments\\Commands\\Handler\\DepartmentCommandHandler.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAC4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:11:13.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HebaMostafa\\OneDrive - Al Jasser Holding\\Desktop\\Projects_LinkedIn\\School_Management_System\\School-Managament-System-main\\SchoolManagment.Api\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolManagment.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\HebaMostafa\\OneDrive - Al Jasser Holding\\Desktop\\Projects_LinkedIn\\School_Management_System\\School-Managament-System-main\\SchoolManagment.Api\\Program.cs",
+              "RelativeToolTip": "SchoolManagment.Api\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:01:41.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HebaMostafa\\OneDrive - Al Jasser Holding\\Desktop\\Projects_LinkedIn\\School_Management_System\\School-Managament-System-main\\SchoolManagment.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolManagment.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\HebaMostafa\\OneDrive - Al Jasser Holding\\Desktop\\Projects_LinkedIn\\School_Management_System\\School-Managament-System-main\\SchoolManagment.Api\\appsettings.json",
+              "RelativeToolTip": "SchoolManagment.Api\\appsettings.json",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T13:01:25.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "C:\\Users\\HebaMostafa\\OneDrive - Al Jasser Holding\\Desktop\\Projects_LinkedIn\\School_Management_System\\School-Managament-System-main\\SchoolManagment.Api\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "SchoolManagment.Api\\Controllers\\SubjectController.cs",
+              "ToolTip": "C:\\Users\\HebaMostafa\\OneDrive - Al Jasser Holding\\Desktop\\Projects_LinkedIn\\School_Management_System\\School-Managament-System-main\\SchoolManagment.Api\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "SchoolManagment.Api\\Controllers\\SubjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T13:01:04.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\HebaMostafa\\OneDrive - Al Jasser Holding\\Desktop\\Projects_LinkedIn\\School_Management_System\\School-Managament-System-main\\SchoolManagment.Api\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SchoolManagment.Api\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\HebaMostafa\\OneDrive - Al Jasser Holding\\Desktop\\Projects_LinkedIn\\School_Management_System\\School-Managament-System-main\\SchoolManagment.Api\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SchoolManagment.Api\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:41:36.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "C:\\Users\\HebaMostafa\\OneDrive - Al Jasser Holding\\Desktop\\Projects_LinkedIn\\School_Management_System\\School-Managament-System-main\\SchoolManagment.Api\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "SchoolManagment.Api\\Controllers\\InstructorController.cs",
+              "ToolTip": "C:\\Users\\HebaMostafa\\OneDrive - Al Jasser Holding\\Desktop\\Projects_LinkedIn\\School_Management_System\\School-Managament-System-main\\SchoolManagment.Api\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "SchoolManagment.Api\\Controllers\\InstructorController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:41:29.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "C:\\Users\\HebaMostafa\\OneDrive - Al Jasser Holding\\Desktop\\Projects_LinkedIn\\School_Management_System\\School-Managament-System-main\\SchoolManagment.Api\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "SchoolManagment.Api\\Controllers\\EmailController.cs",
+              "ToolTip": "C:\\Users\\HebaMostafa\\OneDrive - Al Jasser Holding\\Desktop\\Projects_LinkedIn\\School_Management_System\\School-Managament-System-main\\SchoolManagment.Api\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "SchoolManagment.Api\\Controllers\\EmailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:41:26.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\HebaMostafa\\OneDrive - Al Jasser Holding\\Desktop\\Projects_LinkedIn\\School_Management_System\\School-Managament-System-main\\SchoolManagment.Api\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "SchoolManagment.Api\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\HebaMostafa\\OneDrive - Al Jasser Holding\\Desktop\\Projects_LinkedIn\\School_Management_System\\School-Managament-System-main\\SchoolManagment.Api\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "SchoolManagment.Api\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:41:23.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthorizationController.cs",
+              "DocumentMoniker": "C:\\Users\\HebaMostafa\\OneDrive - Al Jasser Holding\\Desktop\\Projects_LinkedIn\\School_Management_System\\School-Managament-System-main\\SchoolManagment.Api\\Controllers\\AuthorizationController.cs",
+              "RelativeDocumentMoniker": "SchoolManagment.Api\\Controllers\\AuthorizationController.cs",
+              "ToolTip": "C:\\Users\\HebaMostafa\\OneDrive - Al Jasser Holding\\Desktop\\Projects_LinkedIn\\School_Management_System\\School-Managament-System-main\\SchoolManagment.Api\\Controllers\\AuthorizationController.cs",
+              "RelativeToolTip": "SchoolManagment.Api\\Controllers\\AuthorizationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:41:21.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\HebaMostafa\\OneDrive - Al Jasser Holding\\Desktop\\Projects_LinkedIn\\School_Management_System\\School-Managament-System-main\\SchoolManagment.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "SchoolManagment.Api\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\HebaMostafa\\OneDrive - Al Jasser Holding\\Desktop\\Projects_LinkedIn\\School_Management_System\\School-Managament-System-main\\SchoolManagment.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "SchoolManagment.Api\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:41:18.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUserController.cs",
+              "DocumentMoniker": "C:\\Users\\HebaMostafa\\OneDrive - Al Jasser Holding\\Desktop\\Projects_LinkedIn\\School_Management_System\\School-Managament-System-main\\SchoolManagment.Api\\Controllers\\ApplicationUserController.cs",
+              "RelativeDocumentMoniker": "SchoolManagment.Api\\Controllers\\ApplicationUserController.cs",
+              "ToolTip": "C:\\Users\\HebaMostafa\\OneDrive - Al Jasser Holding\\Desktop\\Projects_LinkedIn\\School_Management_System\\School-Managament-System-main\\SchoolManagment.Api\\Controllers\\ApplicationUserController.cs",
+              "RelativeToolTip": "SchoolManagment.Api\\Controllers\\ApplicationUserController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:41:07.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
